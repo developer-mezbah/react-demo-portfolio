@@ -8,4 +8,4 @@ What inclueded this project <br>
 
 This project only created on Frontend purpose.
 
-![Mezbah uddin React project]([http://url/to/img.png](https://raw.githubusercontent.com/developer-mezbah/react-demo-portfolio/main/preview.png)https://raw.githubusercontent.com/developer-mezbah/react-demo-portfolio/main/preview.png)
+![Mezbah uddin React project](https://raw.githubusercontent.com/developer-mezbah/react-demo-portfolio/main/preview.png)
