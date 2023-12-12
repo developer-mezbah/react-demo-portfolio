@@ -1,8 +1,10 @@
-# React + Vite
+# This porject using React with tailwind.css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+What inclueded this project <br>
+=> Hero section<br>
+=> About section<br>
+  -> with moduler.css<br>
+=> and Contact section<br>
 
-Currently, two official plugins are available:
+This project only created on Frontend purpose.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
