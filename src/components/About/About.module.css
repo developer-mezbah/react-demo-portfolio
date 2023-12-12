@@ -1,0 +1,32 @@
+.aboutSection{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    gap: 10px;
+    padding: 30px 0px;
+}
+.aboutItem{
+    padding: 20px;
+}
+.title{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 500;
+    color: #646EE4;
+    position: relative;
+    margin-bottom: 20px;
+}
+.title::before{
+    content: "";
+    position: absolute;
+    height: 5px;
+    width: 60px;
+    background: #646EE4;
+    bottom: -15px;
+}
+.images{
+    border-radius: 20px;
+    margin-top: 20px;
+}
